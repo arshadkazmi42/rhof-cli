@@ -15,7 +15,7 @@ $ npm i -g rhof-cli
 ## Usage
 
 ```shell
-$ rhof --repo=rhof --username=arshadkazmi42
+$ rhof --repo=rhof --user=arshadkazmi42
 
 # Output
 # <a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a>

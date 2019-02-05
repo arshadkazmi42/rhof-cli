@@ -9,14 +9,14 @@
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
     "pretest": "eslint --ignore-path .gitignore .",
-    "test": "node index.js --repo=rhof --username=arshadkazmi42"
+    "test": "node index.js --repo=rhof --user=arshadkazmi42"
   },
   "author": "Arshad Kazmi",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^5.2.0",
     "eslint": "^5.11.1",
-    "eslint-config-strongloop": "^2.1.0"
+    "eslint-config-strongloop": "^2.1.0",
+    "mocha": "^5.2.0"
   },
   "repository": {
     "type": "git",
@@ -32,5 +32,9 @@
   "bugs": {
     "url": "https://github.com/arshadkazmi42/rhof/issues"
   },
-  "homepage": "https://github.com/arshadkazmi42/rhof#readme"
+  "homepage": "https://github.com/arshadkazmi42/rhof#readme",
+  "dependencies": {
+    "@gh-conf/rhof": "^1.0.1",
+    "ora": "^3.0.0"
+  }
 }

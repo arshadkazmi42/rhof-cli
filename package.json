@@ -1,0 +1,36 @@
+{
+  "name": "rhof",
+  "version": "1.0.0",
+  "description": "HOF of github contributors for github readme",
+  "main": "index.js",
+  "bin": {
+    "rhof": "index.js"
+  },
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node index.js --repo=rhof --username=arshadkazmi42"
+  },
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/rhof.git"
+  },
+  "keywords": [
+    "rhof",
+    "github-hof",
+    "hall-of-fame",
+    "hof",
+    "contributors"
+  ],
+  "bugs": {
+    "url": "https://github.com/arshadkazmi42/rhof/issues"
+  },
+  "homepage": "https://github.com/arshadkazmi42/rhof#readme"
+}

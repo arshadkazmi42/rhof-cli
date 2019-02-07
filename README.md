@@ -1,5 +1,13 @@
 # rhof-cli
 
+[![Build](https://img.shields.io/travis/com/arshadkazmi42/rhof-cli.svg)](https://travis-ci.com/arshadkazmi42/rhof-cli/)
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/rhof-cli.svg)](https://github.com/arshadkazmi42/rhof)
+[![LICENSE](https://img.shields.io/npm/l/rhof.svg)](https://github.com/arshadkazmi42/rhof-cli/LICENSE)
+[![NPM Downloads](https://img.shields.io/npm/dt/rhof.svg)](https://www.npmjs.com/package/rhof)
+[![NPM Version](https://img.shields.io/npm/v/rhof.svg)](https://www.npmjs.com/package/rhof)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/rhof-cli.svg)](https://github.com/arshadkazmi42/rhof-cli/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/rhof-cli.svg)](https://github.com/arshadkazmi42/rhof-cli/commits/master)
+
 CLI tool to generate github contributors hall of fame for github readme
 
 > Give us a :star: if you like our work :heart:

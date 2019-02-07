@@ -1,6 +1,6 @@
 {
   "name": "rhof",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "HOF of github contributors for github readme",
   "main": "index.js",
   "bin": {

@@ -31,9 +31,9 @@ $ rhof --repo=rhof --user=arshadkazmi42
 
 ## Contributing
 
-We are constantly working on improving this library and we need all the help we can get. 
+We are constantly working on improving this library and we need all the help we can get.
 
-You can contribute to this project by giving [suggestions](https://github.com/arshadkazmi42/rhof-cli/issues/new), fixing [open issues](https://github.com/arshadkazmi42/rhof-cli/issues) or by implementing a new feature. 
+You can contribute to this project by giving [suggestions](https://github.com/arshadkazmi42/rhof-cli/issues/new), fixing [open issues](https://github.com/arshadkazmi42/rhof-cli/issues) or by implementing a new feature.
 
 Read our contributing [guide](CONTRIBUTING.md) on getting started with contribution
 
@@ -41,4 +41,4 @@ Read our contributing [guide](CONTRIBUTING.md) on getting started with contribut
 
 Thank you to all the contributors who help in making this project better :raised_hands:
 
-<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a><a href="https://github.com/sog01"><img src="https://github.com/sog01.png" width="30" /></a>
+<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a><a href="https://github.com/co16353sidak"><img src="https://github.com/co16353sidak.png" width="30" /></a><a href="https://github.com/sog01"><img src="https://github.com/sog01.png" width="30" /></a>

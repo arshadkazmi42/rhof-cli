@@ -15,7 +15,7 @@ CLI tool to generate github contributors hall of fame for github readme
 ## Install
 
 ```shell
-$npm -g i @gh-conf/rhof
+$npm -g i rhof
 ```
 
 > This should be installed globally

@@ -1,22 +1,23 @@
 # Contributing
 
-### Thanks, for considering to contribute to this repository! 
+### Thanks, for considering to contribute to this repository!
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. 
+email, or any other method with the owners of this repository before making a change.
 
 If you are looking forward to start contributing to beautiful world of open source.
 **Start it right now.**
 
-The basic guidelines for contributing are as follows:  
+The basic guidelines for contributing are as follows:
+
 - Fork the repo
 - Clone the repo
-- Create a branch using 
+- Create a branch using
   - `git checkout -b feature-branch`
 - Make the required changes
 - Test the changes by using below command
-  - `yarn` (Installs all the dependencies)
-  - `yarn test`
+  - `npm` (Installs all the dependencies)
+  - `npm test`
 - Create a pull request using below commands
   - `git add --all`
   - `git commit -m "your commit message"`

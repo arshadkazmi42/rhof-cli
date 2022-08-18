@@ -16,7 +16,7 @@ The basic guidelines for contributing are as follows:
   - `git checkout -b feature-branch`
 - Make the required changes
 - Test the changes by using below command
-  - `npm` (Installs all the dependencies)
+  - `npm install` (Installs all the dependencies)
   - `npm test`
 - Create a pull request using below commands
   - `git add --all`
